@@ -1,0 +1,33 @@
+body{
+    color:rgb(142, 77, 134);
+    background-color:rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content:space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a{
+    color: rgb(160, 80, 163);
+    text-decoration: none;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50;
+    border: 5px slateblue;
+}
+
+.center{
+    text-align: center;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
